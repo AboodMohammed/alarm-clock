@@ -14,7 +14,7 @@
  body{
    padding: 0 10px;
    min-height: 100vh;
-   background: url("background.jpg");
+   background: url("items/background.jpg");
    background-repeat: no-repeat;
    background-size: cover;
  }
